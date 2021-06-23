@@ -1,6 +1,6 @@
 # Curso em Vídeo: Python3 Mundo1
 
-#### *Esse repositório contém os exercícios propostos no curso, mas optei por fazê-lo no Jupyter notebook ou invés do Pycharm.*
+#### *Esse repositório contém os exercícios propostos no curso, mas optei por fazê-lo no Jupyter notebook ao invés do Pycharm.*
 
 ---
 
